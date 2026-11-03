@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Edge",
+  "description": "Secure, ultra-lightweight native Android edge gesture, privacy shield, local URL cleaner, and encrypted autofill utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aegis Edge</string>
+    <string name="accessibility_service_label">Aegis Edge Gesture &amp; Privacy Engine</string>
+    <string name="accessibility_service_description">Provides customizable vertical edge gestures, temporary Privacy Shield screen freeze/lock, and temporary edge/notch action feedback. Processes all interactions locally with zero network access and never logs or collects text input.</string>
+    <string name="autofill_service_label">Aegis Encrypted Autofill</string>
+    <string name="share_clean_url_label">Clean URL (Aegis)</string>
+</resources>

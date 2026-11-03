@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <group
+        android:scaleX="0.55"
+        android:scaleY="0.55"
+        android:translateX="5.4"
+        android:translateY="5.4">
+        <!-- Left & Right Edge Bars -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M2,5 L4,5 L4,19 L2,19 Z M20,5 L22,5 L22,19 L20,19 Z" />
+        <!-- Central Shield Silhouette -->
+        <path
+            android:fillColor="#E0FBFC"
+            android:pathData="M12,2 L6,5 L6,11 C6,16.55 8.56,21.74 12,23 C15.44,21.74 18,16.55 18,11 L18,5 L12,2 Z M12,11.99 L16,11.99 C15.47,16.11 13.99,19.78 12,20.93 L12,12 L8,12 L8,6.3 L12,4.19 L12,11.99 Z" />
+    </group>
+</vector>
